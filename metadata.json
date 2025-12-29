@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Artillery: Worms-style Prototype",
+  "description": "A 2D artillery game with destructible terrain, pixel-perfect physics, and turn-based combat.",
+  "requestFramePermissions": []
+}
